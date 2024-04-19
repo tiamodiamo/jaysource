@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: rayduan
+Build-Jdk: 11.0.18
+Implementation-Title: JaCoCo Command Line Interface
+Implementation-Vendor: Mountainminds GmbH & Co. KG
+Implementation-Version: 0.8.7-SNAPSHOT
+Main-Class: org.jacoco.cli.internal.Main
+
